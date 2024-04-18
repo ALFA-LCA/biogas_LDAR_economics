@@ -1,0 +1,9 @@
+name,excelname,bakname,red_min,red_max,show_combined,use_for_economics
+Whole plant,whole plant,Whole plant,0,13,True,False
+digester + feed + piping,digester + feed + piping,,,,False,False
+Biogas upgrading,biomethane upgrading,Biogas upgrading,0,3,True,True
+CHP,CHP,CHP,1.7,1.7,True,False
+Digestate storage,digestate storage,Digestate storage,0,10,True,True
+Biogas processing,digester,Biogas processing,0,0,True,True
+manure storage,manure storage,manure storage,,,False,False
+substrate receiving,substrate receiving,substrate receiving,,,False,False
